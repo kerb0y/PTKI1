@@ -37,6 +37,3 @@ case $choice in
         exit
         ;;
 esac
-
-echo "Anda harus membayar = Rp.$bayar"
-echo "Terima kasih sudah berkunjung"
